@@ -1,0 +1,52 @@
+html {
+    font-family: sans-serif;
+    background-color: black;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#box {
+    width: 500px;
+    height: 600px;
+    background-color: orange;
+    margin-top: 30px;
+    border: 2px solid black;
+}
+#cube {
+    height: 30px;
+    width: 30px;
+    background-color: green;
+    margin-top: 60px;
+}
+
+#Score {
+    text-align: left;
+    width: auto;
+    color: blue;
+
+}
+
+#time {
+    
+    margin-bottom: 30px;
+    float:left;
+    color: purple;
+
+}
+
+    
+    
+}
+#left {
+    width: 130px;
+    text-align: left;
+    
+}
+
+#restart {
+    width: 160px;
+    height: 50px;
+    color: solid black;
+    background-color:green;
+}
